@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resources>
+	<string name = "txtTitle" text="BLOCK MAGIC PUZZLE"/>
+	<string name = "txt-selectmode" text="VÄLJ MODE"/>
+
+	<!--Quit Game-->
+	<string name = "txt-quit-title" text="ÄR DU SÄKER?"/>
+	<string name = "txt-quit-confirm" text="Är du säker på att du vill avsluta spelet?"/>
+	<string name = "txt-quit" text="STANNA KVAR !"/>
+	<string name = "txt-stay" text="SLUTA"/>
+
+	<!--Select Mode-->
+	<string name = "txt-select-mode" text="VÄLJ MODE"/>
+	<string name = "txt-classic" text="KLASSISK MODE"/>
+	<string name = "txt-timed" text="TIMED MODE"/>
+	<string name = "txt-blast" text="BLAST MODE"/>
+	<string name = "txt-advanced" text="AVANCERAT LÄGE"/>
+	<string name = "txt-challenge" text="UTMANINGSLÄGE"/>
+
+	<!--Settings Screen-->
+	<string name = "txt-settings" text="INSTÄLLNINGAR"/>
+	<string name = "txt-sound" text="LJUD"/>
+	<string name = "txt-music" text="MUSIK"/>
+	<string name = "txt-rate" text="BETYGSÄTTA"/>
+	<string name = "txt-about" text="HANDLA OM"/>
+
+	<!--ShopScreen-->
+	<string name = "txt-shop" text="AFFÄR"/>
+	<string name = "txt-remove-ads" text="TA BORT ANNONSER"/>
+	<string name = "txt-Coin1" text="500 Mynt"/>
+	<string name = "txt-Coin2" text="1650 Mynt"/>
+	<string name = "txt-Coin3" text="3000 Mynt"/>
+	<string name = "txt-Coin4" text="6250 Mynt"/>
+
+	<string name = "txt-success" text="FRAMGÅNG"/>
+	<string name = "txt-note" text="NOTERA"/>
+	<string name = "txt-ok" text="ok"/>
+	<string name = "txt-success-content" text="Köp slutfördes framgångsrikt."/>
+	<string name = "txt-fail-content" text="Inköp misslyckades, försök igen."/>
+
+	<!--Pause-->
+
+	<string name = "txt-paused" text="PAUSAD"/>
+	<string name = "txt-home" text="HEM"/>
+	<string name = "txt-reset" text="ÅTERSTÄLLA"/>
+
+	<!--Rescue-->
+	<string name = "txt-keep-playing" text="FORTSÄTTA SPELA?"/>
+	<string name = "txt-recue" text="Ge inte upp, du har en förändring."/>
+	<string name = "txt-free-rescue" text="GRATIS RESCUE"/>
+	<string name = "txt-usecoins" text="200 Mynt"/>
+
+	<!--Game Over Reason-->
+	<string name = "txt-out-moves" text="UTAN RÖRAR!"/>
+	<string name = "txt-bomb-blast" text="BOMB EXPLODES!"/>
+	<string name = "txt-time-over" text="TIDEN ÄR UTE!"/>
+
+	<!---Select Language-->
+	<string name = "txt-select-language" text = "VÄLJ SPRÅK"/>
+
+	<!---help time mode-->
+	<string name ="txt-help-timed" text = "Klocka timern, bryta linjer för att öka tidsfältet!"/>
+	<string name ="txt-help-bomb" text = "Bomb kommer att spränga när räknaren är över, Bryt bomben innan den är över!"/>
+	<string name ="txt-help-advance" text = "Spela med dessa ytterligare block!"/>
+</Resources>

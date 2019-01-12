@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resources>
+	<string name = "txtTitle" text="블록 매직 퍼즐"/>
+	<string name = "txt-selectmode" text="선택 모드"/>
+
+	<!--Quit Game-->
+	<string name = "txt-quit-title" text="확실합니까?"/>
+	<string name = "txt-quit-confirm" text="게임을 종료 하시겠습니까?"/>
+	<string name = "txt-quit" text="있어!"/>
+	<string name = "txt-stay" text="떠나다"/>
+
+	<!--Select Mode-->
+	<string name = "txt-select-mode" text="선택 모드"/>
+	<string name = "txt-classic" text="클래식 모드"/>
+	<string name = "txt-timed" text="시간 모드"/>
+	<string name = "txt-blast" text="돌풍 모드"/>
+	<string name = "txt-advanced" text="고급 모드"/>
+	<string name = "txt-challenge" text="도전 과제 모드"/>
+
+	<!--Settings Screen-->
+	<string name = "txt-settings" text="설정"/>
+	<string name = "txt-sound" text="소리"/>
+	<string name = "txt-music" text="음악"/>
+	<string name = "txt-rate" text="율"/>
+	<string name = "txt-about" text="약"/>
+
+	<!--ShopScreen-->
+	<string name = "txt-shop" text="가게"/>
+	<string name = "txt-remove-ads" text="광고를 제거하다"/>
+	<string name = "txt-Coin1" text="500 동전"/>
+	<string name = "txt-Coin2" text="1650 동전"/>
+	<string name = "txt-Coin3" text="3000 동전"/>
+	<string name = "txt-Coin4" text="6250 동전"/>
+
+	<string name = "txt-success" text="성공"/>
+	<string name = "txt-note" text="노트"/>
+	<string name = "txt-ok" text="승인"/>
+	<string name = "txt-success-content" text="구매가 완료되었습니다."/>
+	<string name = "txt-fail-content" text="구매 실패. 다시 시도하십시오."/>
+
+	<!--Pause-->
+
+	<string name = "txt-paused" text="일시 중지 된"/>
+	<string name = "txt-home" text="집"/>
+	<string name = "txt-reset" text="다시 놓기"/>
+
+	<!--Rescue-->
+	<string name = "txt-keep-playing" text="계속 놀고 있니?"/>
+	<string name = "txt-recue" text="포기하지 마라, 당신은 한 번 더 바뀐다."/>
+	<string name = "txt-free-rescue" text="자유형 구조"/>
+	<string name = "txt-usecoins" text="200 동전"/>
+
+	<!--Game Over Reason-->
+	<string name = "txt-out-moves" text="밖으로 움직여 라!"/>
+	<string name = "txt-bomb-blast" text="폭탄이 폭발합니다!"/>
+	<string name = "txt-time-over" text="시간의 최대!"/>
+
+	<!---Select Language-->
+	<string name = "txt-select-language" text = "언어 선택"/>
+
+	<!---help time mode-->
+	<string name ="txt-help-timed" text = "타이머 조심해, 타임 라인을 늘리십시오!"/>
+	<string name ="txt-help-bomb" text = "카운터가 끝나면 폭탄이 터져서 끝나기 전에 폭탄을 터뜨려 라!"/>
+	<string name ="txt-help-advance" text = "이 추가 블록으로 재생하십시오!"/>
+</Resources>

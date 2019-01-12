@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resources>
+	<string name = "txtTitle" text="PUZZLE MAGIC BLOCK"/>
+	<string name = "txt-selectmode" text="SELECT MODE"/>
+
+	<!--Quit Game-->
+	<string name = "txt-quit-title" text="SEI SICURO?"/>
+	<string name = "txt-quit-confirm" text="sei sicuro di voler chiudere il gioco?"/>
+	<string name = "txt-quit" text="RESTARE !"/>
+	<string name = "txt-stay" text="SMETTERE"/>
+
+	<!--Select Mode-->
+	<string name = "txt-select-mode" text="SELECT MODE"/>
+	<string name = "txt-classic" text="MODALITÀ CLASSICA"/>
+	<string name = "txt-timed" text="MODALITÀ TEMPORIZZATA"/>
+	<string name = "txt-blast" text="MODALITÀ BLAST"/>
+	<string name = "txt-advanced" text="MODALITÀ AVANZATA"/>
+	<string name = "txt-challenge" text="MODALITÀ SFIDA"/>
+
+	<!--Settings Screen-->
+	<string name = "txt-settings" text="IMPOSTAZIONI"/>
+	<string name = "txt-sound" text="SUONO"/>
+	<string name = "txt-music" text="MUSICA"/>
+	<string name = "txt-rate" text="VOTA"/>
+	<string name = "txt-about" text="DI"/>
+
+	<!--ShopScreen-->
+	<string name = "txt-shop" text="NEGOZIO"/>
+	<string name = "txt-remove-ads" text="RIMUOVERE GLI ANNUNCI"/>
+	<string name = "txt-Coin1" text="500 MONETE"/>
+	<string name = "txt-Coin2" text="1650 MONETE"/>
+	<string name = "txt-Coin3" text="3000 MONETE"/>
+	<string name = "txt-Coin4" text="6250 MONETE"/>
+
+	<string name = "txt-success" text="SUCCESSO"/>
+	<string name = "txt-note" text="NOTA"/>
+	<string name = "txt-ok" text="ok"/>
+	<string name = "txt-success-content" text="Acquisto completato con successo."/>
+	<string name = "txt-fail-content" text="Acquisto fallito, per favore riprova."/>
+
+	<!--Pause-->
+
+	<string name = "txt-paused" text="PAUSA"/>
+	<string name = "txt-home" text="CASA"/>
+	<string name = "txt-reset" text="RESET"/>
+
+	<!--Rescue-->
+	<string name = "txt-keep-playing" text="CONTINUARE A GIOCARE"/>
+	<string name = "txt-recue" text="Non arrenderti, hai un altro cambiamento."/>
+	<string name = "txt-free-rescue" text="SOCCORSO GRATUITO"/>
+	<string name = "txt-usecoins" text="200 MONETE"/>
+
+	<!--Game Over Reason-->
+	<string name = "txt-out-moves" text="FUORI DEI MOVIMENTI!"/>
+	<string name = "txt-bomb-blast" text="BOMBA ESPLORA!"/>
+	<string name = "txt-time-over" text="TEMPO SCADUTO!"/>
+
+	<!---Select Language-->
+	<string name = "txt-select-language" text = "SELEZIONA LA LINGUA"/>
+
+	<!---help time mode-->
+	<string name ="txt-help-timed" text = "Guarda il timer, rompi le linee per aumentare la barra del tempo!"/>
+	<string name ="txt-help-bomb" text = "La bomba esploderà quando il contatore sarà finito, rompi la bomba prima che finisca!"/>
+	<string name ="txt-help-advance" text = "Gioca con questi blocchi aggiuntivi!"/>
+</Resources>

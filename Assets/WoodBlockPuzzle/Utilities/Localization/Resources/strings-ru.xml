@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resources>
+	<string name = "txtTitle" text="БЛОКИРОВКА ВОЛШЕБНАЯ"/>
+	<string name = "txt-selectmode" text="ВЫБОР РЕЖИМА"/>
+
+	<!--Quit Game-->
+	<string name = "txt-quit-title" text="ТЫ УВЕРЕН?"/>
+	<string name = "txt-quit-confirm" text="Вы действительно хотите выйти из игры?"/>
+	<string name = "txt-quit" text="ОСТАВАТЬСЯ !"/>
+	<string name = "txt-stay" text="УВОЛИТЬСЯ"/>
+
+	<!--Select Mode-->
+	<string name = "txt-select-mode" text="ВЫБОР РЕЖИМА"/>
+	<string name = "txt-classic" text="КЛАССИЧЕСКИЙ РЕЖИМ"/>
+	<string name = "txt-timed" text="ВРЕМЕННЫЙ РЕЖИМ"/>
+	<string name = "txt-blast" text="режим взрыва"/>
+	<string name = "txt-advanced" text="РАСШИРЕННЫЙ РЕЖИМ"/>
+	<string name = "txt-challenge" text="РАСШИРЕННЫЙ РЕЖИМ"/>
+
+	<!--Settings Screen-->
+	<string name = "txt-settings" text="НАСТРОЙКИ"/>
+	<string name = "txt-sound" text="звук"/>
+	<string name = "txt-music" text="МУЗЫКА"/>
+	<string name = "txt-rate" text="СТАВКА"/>
+	<string name = "txt-about" text="ОКОЛО"/>
+
+	<!--ShopScreen-->
+	<string name = "txt-shop" text="МАГАЗИН"/>
+	<string name = "txt-remove-ads" text="УБРАТЬ РЕКЛАМУ"/>
+	<string name = "txt-Coin1" text="500 МОНЕТ"/>
+	<string name = "txt-Coin2" text="1650 МОНЕТ"/>
+	<string name = "txt-Coin3" text="3000 МОНЕТ"/>
+	<string name = "txt-Coin4" text="6250 МОНЕТ"/>
+
+	<string name = "txt-success" text="УСПЕХ"/>
+	<string name = "txt-note" text="ЗАМЕТКА"/>
+	<string name = "txt-ok" text="ОК"/>
+	<string name = "txt-success-content" text="Покупка завершена успешно."/>
+	<string name = "txt-fail-content" text="Ошибка покупки, повторите попытку."/>
+
+	<!--Pause-->
+
+	<string name = "txt-paused" text="ПАУЗА"/>
+	<string name = "txt-home" text="ГЛАВНАЯ"/>
+	<string name = "txt-reset" text="СБРОС"/>
+
+	<!--Rescue-->
+	<string name = "txt-keep-playing" text="ПРОДОЛЖАЙ ИГРАТЬ?"/>
+	<string name = "txt-recue" text="Не сдавайтесь, у вас есть еще одно изменение."/>
+	<string name = "txt-free-rescue" text="БЕСПЛАТНЫЙ СПАС"/>
+	<string name = "txt-usecoins" text="200 МОНЕТ"/>
+
+	<!--Game Over Reason-->
+	<string name = "txt-out-moves" text="ИЗ ПЕРЕМЕЩЕНИЙ!"/>
+	<string name = "txt-bomb-blast" text="BOMB EXPLODES!"/>
+	<string name = "txt-time-over" text="ВРЕМЯ ВЫШЛО!"/>
+
+	<!---Select Language-->
+	<string name = "txt-select-language" text = "ВЫБЕРИТЕ ЯЗЫК"/>
+
+	<!---help time mode-->
+	<string name ="txt-help-timed" text = "Следите за таймером, сломайте линии, чтобы увеличить временную шкалу!"/>
+	<string name ="txt-help-bomb" text = "Бомба взорвется, когда счетчик закончится, Взрыв бомбы до ее завершения!"/>
+	<string name ="txt-help-advance" text = "Играйте с этими дополнительными блоками!"/>
+</Resources>

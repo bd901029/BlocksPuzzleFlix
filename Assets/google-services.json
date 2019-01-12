@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "234654998351",
+    "firebase_url": "https://blocks-puzzle-flix.firebaseio.com",
+    "project_id": "blocks-puzzle-flix",
+    "storage_bucket": "blocks-puzzle-flix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234654998351:android:deb13baffa25facc",
+        "android_client_info": {
+          "package_name": "com.blocks.puzzle.flix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234654998351-ooeos69vg6d6n2678l1q7h75nfrs6vtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLdMu10CqOtlcnLUaGwSAKYB-yJ1j335o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resources>
+	<string name = "txtTitle" text="ENIGMA MAGIC BLOCO"/>
+	<string name = "txt-selectmode" text="MODO DE SELEÇÃO"/>
+
+	<!--Quit Game-->
+	<string name = "txt-quit-title" text="VOCÊ TEM CERTEZA?"/>
+	<string name = "txt-quit-confirm" text="Tem certeza de que deseja sair do jogo?"/>
+	<string name = "txt-quit" text="FIQUE !"/>
+	<string name = "txt-stay" text="SAIR"/>
+
+	<!--Select Mode-->
+	<string name = "txt-select-mode" text="MODO DE SELEÇÃO"/>
+	<string name = "txt-classic" text="MODO CLÁSSICO"/>
+	<string name = "txt-timed" text="MODO TIMED"/>
+	<string name = "txt-blast" text="MODO DE VENCEDURA"/>
+	<string name = "txt-advanced" text="MODO AVANÇADO"/>
+	<string name = "txt-challenge" text="MODO DESAFIO"/>
+
+	<!--Settings Screen-->
+	<string name = "txt-settings" text="CONFIGURAÇÕES"/>
+	<string name = "txt-sound" text="SOM"/>
+	<string name = "txt-music" text="MÚSICA"/>
+	<string name = "txt-rate" text="TAXA"/>
+	<string name = "txt-about" text="SOBRE"/>
+
+	<!--ShopScreen-->
+	<string name = "txt-shop" text="FAZER COMPRAS"/>
+	<string name = "txt-remove-ads" text="REMOVER PROPAGANDAS"/>
+	<string name = "txt-Coin1" text="500 MOEDAS"/>
+	<string name = "txt-Coin2" text="1650 MOEDAS"/>
+	<string name = "txt-Coin3" text="3000 MOEDAS"/>
+	<string name = "txt-Coin4" text="6250 MOEDAS"/>
+
+	<string name = "txt-success" text="SUCESSO"/>
+	<string name = "txt-note" text="NOTA"/>
+	<string name = "txt-ok" text="Está bem"/>
+	<string name = "txt-success-content" text="Compra concluída com sucesso."/>
+	<string name = "txt-fail-content" text="Compra falhada, tente novamente."/>
+
+	<!--Pause-->
+
+	<string name = "txt-paused" text="PAUSADO"/>
+	<string name = "txt-home" text="CASA"/>
+	<string name = "txt-reset" text="RESTABELECER"/>
+
+	<!--Rescue-->
+	<string name = "txt-keep-playing" text="CONTINUE JOGANDO?"/>
+	<string name = "txt-recue" text="Não desista, você tem mais uma mudança."/>
+	<string name = "txt-free-rescue" text="SALVAMENTO LIVRE"/>
+	<string name = "txt-usecoins" text="200 MOEDAS"/>
+
+	<!--Game Over Reason-->
+	<string name = "txt-out-moves" text="FORA DE MOVIMENTOS!"/>
+	<string name = "txt-bomb-blast" text="BOMB EXPLODES!"/>
+	<string name = "txt-time-over" text="ACABOU O TEMPO!"/>
+
+	<!---Select Language-->
+	<string name = "txt-select-language" text = "SELECIONE O IDIOMA"/>
+
+	<!---help time mode-->
+	<string name ="txt-help-timed" text = "Assista ao temporizador, quebre as linhas para aumentar a barra de tempo!"/>
+	<string name ="txt-help-bomb" text = "A bomba explodirá quando o contador terminar, quebre a bomba antes de acabar!"/>
+	<string name ="txt-help-advance" text = "Jogue com esses blocos adicionais!"/>
+</Resources>

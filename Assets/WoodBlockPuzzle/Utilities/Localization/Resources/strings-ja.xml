@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resources>
+	<string name = "txtTitle" text="ブロックマジックパズル"/>
+	<string name = "txt-selectmode" text="選択モード"/>
+
+	<!--Quit Game-->
+	<string name = "txt-quit-title" text="本気ですか？"/>
+	<string name = "txt-quit-confirm" text="あなたはゲームを終了してもよろしいですか？"/>
+	<string name = "txt-quit" text="滞在！"/>
+	<string name = "txt-stay" text="終了する"/>
+
+	<!--Select Mode-->
+	<string name = "txt-select-mode" text="選択モード"/>
+	<string name = "txt-classic" text="クラシックモード"/>
+
+	<string name = "txt-timed" text="時限モード"/>
+	<string name = "txt-blast" text="ブラストモード"/>
+	<string name = "txt-advanced" text="アドバンストモード"/>
+	<string name = "txt-challenge" text="チャレンジモード"/>
+
+	<!--Settings Screen-->
+	<string name = "txt-settings" text="設定"/>
+	<string name = "txt-sound" text="音"/>
+	<string name = "txt-music" text="音楽"/>
+	<string name = "txt-rate" text="レート"/>
+	<string name = "txt-about" text="約"/>
+
+	<!--ShopScreen-->
+	<string name = "txt-shop" text="ショップ"/>
+	<string name = "txt-remove-ads" text="広告を削除"/>
+	<string name = "txt-Coin1" text="500コイン"/>
+	<string name = "txt-Coin2" text="1650コイン"/>
+	<string name = "txt-Coin3" text="3000コイン"/>
+	<string name = "txt-Coin4" text="6250コイン"/>
+
+	<string name = "txt-success" text="成功"/>
+	<string name = "txt-note" text="注意"/>
+	<string name = "txt-ok" text="OK"/>
+	<string name = "txt-success-content" text="購入は正常に完了しました。"/>
+	<string name = "txt-fail-content" text="購入に失敗しました。もう一度お試しください。"/>
+
+	<!--Pause-->
+
+	<string name = "txt-paused" text="PAUSED"/>
+	<string name = "txt-home" text="ホーム"/>
+	<string name = "txt-reset" text="リセット"/>
+
+	<!--Rescue-->
+	<string name = "txt-keep-playing" text="再生し続けます？"/>
+	<string name = "txt-recue" text="あきらめるな、もう一度変わった。"/>
+	<string name = "txt-free-rescue" text="FREE RESCUE"/>
+	<string name = "txt-usecoins" text="200コイン"/>
+
+	<!--Game Over Reason-->
+	<string name = "txt-out-moves" text="アウトオブムーブズ！"/>
+	<string name = "txt-bomb-blast" text="ボムが爆発！"/>
+	<string name = "txt-time-over" text="時間切れ！"/>
+
+	<!---Select Language-->
+	<string name = "txt-select-language" text = "言語を選択する"/>
+
+	<!---help time mode-->
+	<string name ="txt-help-timed" text = "タイムアウト時間を長くするために、タイマーを注意深く監視してください。"/>
+	<string name ="txt-help-bomb" text = "カウンターが終わったら爆弾が爆発し、その前に爆弾が爆発する！"/>
+	<string name ="txt-help-advance" text = "これらの追加ブロックで遊ぶ！"/>
+</Resources>

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{EAB980CA-1EDF-58A7-DBE2-CEE7468A7582}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Block-Puzzle-Magic/Scripts/AdsControl.cs">
+    <Files>
+      <File FileName="Assets/Block-Puzzle-Magic/Scripts/GameBoardGenerator.cs" Line="126" Column="47" />
+      <File FileName="Assets/Block-Puzzle-Magic/Scripts/Block.cs" Line="85" Column="33" />
+      <File FileName="Assets/Block-Puzzle-Magic/Scripts/GamePlay.cs" Line="248" Column="65" />
+      <File FileName="Assets/Block-Puzzle-Magic/Scripts/AutoDestroy.cs" Line="10" Column="33" />
+      <File FileName="Assets/Block-Puzzle-Magic/Scripts/MainScreen.cs" Line="13" Column="63" />
+      <File FileName="Assets/Block-Puzzle-Magic/Scripts/SelectMode.cs" Line="67" Column="59" />
+      <File FileName="Assets/Block-Puzzle-Magic/Scripts/AudioManager.cs" Line="92" Column="14" />
+      <File FileName="Assets/Block-Puzzle-Magic/Scripts/GamePlayUI.cs" Line="82" Column="40" />
+      <File FileName="Assets/Block-Puzzle-Magic/Scripts/UIScripts/GameOver.cs" Line="47" Column="110" />
+      <File FileName="Assets/Block-Puzzle-Magic/Scripts/AdsControl.cs" Line="70" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

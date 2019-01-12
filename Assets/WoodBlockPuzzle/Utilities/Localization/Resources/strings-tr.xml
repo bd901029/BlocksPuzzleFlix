@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resources>
+	<string name = "txtTitle" text="BLOK MAGIC PUZZLE"/>
+	<string name = "txt-selectmode" text="MOD SEÇ"/>
+
+	<!--Quit Game-->
+	<string name = "txt-quit-title" text="EMİN MİSİNİZ?"/>
+	<string name = "txt-quit-confirm" text="Oyundan çıkmak istediğinden emin misin?"/>
+	<string name = "txt-quit" text="KALMAK!"/>
+	<string name = "txt-stay" text="QUIT"/>
+
+	<!--Select Mode-->
+	<string name = "txt-select-mode" text="MOD SEÇ"/>
+	<string name = "txt-classic" text="KLASİK MODU"/>
+	<string name = "txt-timed" text="Zamanlanmış mod"/>
+	<string name = "txt-blast" text="BLAST MODU"/>
+	<string name = "txt-advanced" text="GELİŞMİŞ MOD"/>
+	<string name = "txt-challenge" text="MÜCADELE MODU"/>
+
+	<!--Settings Screen-->
+	<string name = "txt-settings" text="AYARLAR"/>
+	<string name = "txt-sound" text="SES"/>
+	<string name = "txt-music" text="MÜZİK"/>
+	<string name = "txt-rate" text="ORANI"/>
+	<string name = "txt-about" text="HAKKINDA"/>
+
+	<!--ShopScreen-->
+	<string name = "txt-shop" text="DÜKKAN"/>
+	<string name = "txt-remove-ads" text="REKLAMLARI KALDIRMAK"/>
+	<string name = "txt-Coin1" text="500 Sikke"/>
+	<string name = "txt-Coin2" text="1650 Sikke"/>
+	<string name = "txt-Coin3" text="3000 Sikke"/>
+	<string name = "txt-Coin4" text="6250 Sikke"/>
+
+	<string name = "txt-success" text="BAŞARI"/>
+	<string name = "txt-note" text="NOT"/>
+	<string name = "txt-ok" text="tamam"/>
+	<string name = "txt-success-content" text="Satın alma başarıyla tamamlandı."/>
+	<string name = "txt-fail-content" text="Satın Alma Başarısız Oldu, Lütfen tekrar deneyin."/>
+
+	<!--Pause-->
+
+	<string name = "txt-paused" text="DURAKLATILMIŞ"/>
+	<string name = "txt-home" text="EV"/>
+	<string name = "txt-reset" text="RESET"/>
+
+	<!--Rescue-->
+	<string name = "txt-keep-playing" text="OYNAMAYA DEVAM ET?"/>
+	<string name = "txt-recue" text="Vazgeçmeyin, bir değişiklik daha yaşıyorsunuz."/>
+	<string name = "txt-free-rescue" text="ÜCRETSİZ KURTARMA"/>
+	<string name = "txt-usecoins" text="200 Sikke"/>
+
+	<!--Game Over Reason-->
+	<string name = "txt-out-moves" text="HAREKET DIŞI!"/>
+	<string name = "txt-bomb-blast" text="Bomba patlıyor!"/>
+	<string name = "txt-time-over" text="SÜRE DOLDU!"/>
+
+	<!---Select Language-->
+	<string name = "txt-select-language" text = "DİL SEÇİN"/>
+
+	<!---help time mode-->
+	<string name ="txt-help-timed" text = "Zamanlayıcıyı izle, zaman çizgisini artırmak için satırları kırın!"/>
+	<string name ="txt-help-bomb" text = "Sayaç bittiğinde bomba patlayacak, bitmeden bombayı patlat!"/>
+	<string name ="txt-help-advance" text = "Bu ek bloklarla oyna!"/>
+</Resources>

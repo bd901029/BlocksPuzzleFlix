@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resources>
+	<string name = "txtTitle" text="MAGIC BLOCK PUZZLE"/>
+	<string name = "txt-selectmode" text="SELECT MODE"/>
+
+	<!--Quit Game-->
+	<string name = "txt-quit-title" text="ARE YOU SURE?"/>
+	<string name = "txt-quit-confirm" text="Are you sure you want to quit the game?"/>
+	<string name = "txt-quit" text="STAY !"/>
+	<string name = "txt-stay" text="QUIT"/>
+
+	<!--Select Mode-->
+	<string name = "txt-select-mode" text="SELECT MODE"/>
+	<string name = "txt-classic" text="CLASSIC MODE"/>
+	<string name = "txt-timed" text="TIMED MODE"/>
+	<string name = "txt-blast" text="BLAST MODE"/>
+	<string name = "txt-advanced" text="ADVANCED MODE"/>
+	<string name = "txt-challenge" text="CHALLENGE MODE"/>
+
+	<!--Settings Screen-->
+	<string name = "txt-settings" text="SETTINGS"/>
+	<string name = "txt-sound" text="SOUND"/>
+	<string name = "txt-music" text="MUSIC"/>
+	<string name = "txt-rate" text="RATE"/>
+	<string name = "txt-about" text="ABOUT"/>
+
+	<!--ShopScreen-->
+	<string name = "txt-shop" text="SHOP"/>
+	<string name = "txt-remove-ads" text="REMOVE ADS"/>
+	<string name = "txt-Coin1" text="500 COINS"/>
+	<string name = "txt-Coin2" text="1650 COINS"/>
+	<string name = "txt-Coin3" text="3000 COINS"/>
+	<string name = "txt-Coin4" text="6250 COINS"/>
+
+	<string name = "txt-success" text="SUCCESS"/>
+	<string name = "txt-note" text="NOTE"/>
+	<string name = "txt-ok" text="OK"/>
+	<string name = "txt-success-content" text="Purchase completed successfully."/>
+	<string name = "txt-fail-content" text="Purchase Failed, Please try again."/>
+
+	<!--Pause-->
+
+	<string name = "txt-paused" text="PAUSED"/>
+	<string name = "txt-home" text="HOME"/>
+	<string name = "txt-reset" text="RESET"/>
+
+	<!--Rescue-->
+	<string name = "txt-keep-playing" text="KEEP PLAYING?"/>
+	<string name = "txt-recue" text="Don't give up, you've one more change."/>
+	<string name = "txt-free-rescue" text="FREE RESCUE"/>
+	<string name = "txt-usecoins" text="200 COINS"/>
+
+	<!--Game Over Reason-->
+	<string name = "txt-out-moves" text="OUT OF MOVES!"/>
+	<string name = "txt-bomb-blast" text="BOMB EXPLODES!"/>
+	<string name = "txt-time-over" text="TIMES UP!"/>
+
+	<!---Select Language-->
+	<string name = "txt-select-language" text = "SELECT LANGUAGE"/>
+
+	<!---help time mode-->
+	<string name ="txt-help-timed" text = "Watchout the timer, break lines to increase time bar!"/>
+	<string name ="txt-help-bomb" text = "Bomb will blast when counter is over, Break bomb before its over!"/>
+	<string name ="txt-help-advance" text = "Play with these additional blocks!"/>
+</Resources>
